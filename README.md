@@ -1,8 +1,6 @@
 {
  "xinmin":"Michael11”,
   "sadsd":"sss",
- "deeraf":45,
- "jiankan":1,
  "states":"USEEEE", 
  "ceshilai":"ceshilaiceshilai",
  "operation":"http://www.qhcftong.com/download.html",
