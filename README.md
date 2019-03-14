@@ -1,8 +1,11 @@
 {
- "xinmin":"Michael11”,
- "states":"USEEEE", 
+ "name":"Michael",
+ "age":24,
+ "height":175,
+ "jiankan":1,
+ "states":"CNsssss", 
  "ceshilai":"ceshilaiceshilai",
- "operation":"http://www.qhcftong.com/download.html",
- "Konfiguration":"構成",
- "Reis essen":"米を食べる"
+ "operation":"http://www.qhcftong.com/download2.html",
+ "wiki":"構成",
+ "Reis":"asdad"
 }
